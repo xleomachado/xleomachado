@@ -1,5 +1,5 @@
 
-## Olá!, sou o Leonardo Machado | estudante de programação e cyber security
+## Olá!, sou o Leonardo Machado | Analista de Segurança da Informação 
 
 <div align="center">
   <a href="https://github.com/xleomachado">
